@@ -17,6 +17,8 @@ Normal Text
 int = 23;
 ...
 
+[Text that links] (https://www.google.de)
+
 ##License
 
 ### Header 3
